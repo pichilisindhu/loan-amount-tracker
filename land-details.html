@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Land Details Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            padding: 20px;
+        }
+        form {
+            max-width: 500px;
+            margin: auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            text-align: center;
+            color: #28a745;
+        }
+        label {
+            display: block;
+            margin: 10px 0 5px;
+            font-weight: bold;
+        }
+        input[type="text"],input[type="email"] {
+            width: 90%;
+            padding: 8px;
+            margin-bottom: 10px;
+            border-radius: 9px;
+            border: 1px solid #ccc;
+        }
+        button {
+            background-color: #28a745;
+            color: white;
+            padding: 10px;
+            width: 100%;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #218838;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Land Details</h2>
+    <form action="land-details.php" method="post">
+
+        <label for="email">EMAIL</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="cultivation_land">Cultivation Land (in acres)</label>
+        <input type="text" id="cultivation_land" name="cultivation_land" required>
+
+        <label for="non_cultivation_land">Non-Cultivation Land (in acres)</label>
+        <input type="text" id="non_cultivation_land" name="non_cultivation_land" required>
+
+        <label for="crop_land">Sown Land
+
+        </label>
+        <input type="text" id="crop_land" name="crop_land" required>
+
+        <button type="submit">Submit</button>
+    </form>
+
+</body>
+</html>
