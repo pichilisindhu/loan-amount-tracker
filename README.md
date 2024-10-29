@@ -3,16 +3,16 @@ A web-based application designed to help farmers track and manage their loan amo
 
 loan-amount-tracker/                                                                                                                                                                                         
 │                                                                                                                                                                                                             
-├── index.php                                                                                                                                                                                            
-├── login.php                                                                                                                                                                           
-├── signup.php                                                                                                                                                                               
-├── create_password.php                                                                                                                                                                
-├── farmer_info.php                                                                                                                                                                      
-│   ├── farmer_details.php                                                                                                                                                    
-│   ├── land_details.php                                                                                                                                                            
-│   └── loan_details.php                                                                                                                                                           
-├── about_us.php                                                                                                                                                                     
-├── contact.php                                                                                                                                                                           
+├── index.html                                                                                                                                                                                           
+├── login.html                                                                                                                                                                           
+├── signup.html                                                                                                                                                                               
+├── create_password.html                                                                                                                                                                
+├── farmer_info.html                                                                                                                                                                      
+│   ├── farmer_details.html                                                                                                                                                    
+│   ├── land_details.html                                                                                                                                                            
+│   └── loan_details.html                                                                                                                                                           
+├── about_us.html                                                                                                                                                                     
+├── contact.html                                                                                                                                                                           
 └── database
    
 
