@@ -3,24 +3,24 @@ A web-based application designed to help farmers track and manage their loan amo
 
 loan-amount-tracker/
 │
-├── index.php               # Home Page
+├── index.php               # Home Page                                                                                                                                                                          
 ├── login.php               # Login Page                                                                                                                                                          
-├── signup.php              # Signup Page
-├── create_password.php     # Create Password Page
-├── farmer_info.php         # Farmer Info Page
-│   ├── farmer_details.php  # Section for farmer details
-│   ├── land_details.php    # Section for land details
-│   └── loan_details.php    # Section for loan details
-├── about_us.php            # About Us Page
-├── contact.php             # Contact Page
+├── signup.php              # Signup Page                                                                                                                                                                 
+├── create_password.php     # Create Password Page                                                                                                                                                        
+├── farmer_info.php         # Farmer Info Page                                                                                                                                                            
+│   ├── farmer_details.php  # Section for farmer details                                                                                                                                                   
+│   ├── land_details.php    # Section for land details                                                                                                                                                       
+│   └── loan_details.php    # Section for loan details                                                                                                                                                       
+├── about_us.php            # About Us Page                                                                                                                                                       
+├── contact.php             # Contact Page                                                                                                                                                           
 └── database
    
 
 
 # Tech Stack
-Frontend: HTML, CSS, JavaScript
-Backend: PHP
-Database: MySQL
+Frontend: HTML, CSS, JavaScript                                                                                                                                                                           
+Backend: PHP                                                                                                                                                                                                      
+Database: MySQL                                                                                                                                                                                          
 
 # Home page
 ![Screenshot 2024-10-29 081949](https://github.com/user-attachments/assets/62b5f917-d618-4a62-a19c-0cac016dfa99)
