@@ -2,7 +2,7 @@
 A web-based application designed to help farmers track and manage their loan amounts. This application includes user-friendly forms for farmer details, land and loan information pages.
 
 # Table of Contents
-1.Features
+1.Features                                                        
 2.Tech Stack
 3.Pages Overview
 4.Setup Instructions
