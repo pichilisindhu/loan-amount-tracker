@@ -1,18 +1,18 @@
 # loan-amount-tracker
 A web-based application designed to help farmers track and manage their loan amounts. This application includes user-friendly forms for farmer details, land and loan information pages.
 
-loan-amount-tracker/
-│
-├── index.php               # Home Page                                                                                                                                                                          
-├── login.php               # Login Page                                                                                                                                                          
-├── signup.php              # Signup Page                                                                                                                                                                 
-├── create_password.php     # Create Password Page                                                                                                                                                        
-├── farmer_info.php         # Farmer Info Page                                                                                                                                                            
-│   ├── farmer_details.php  # Section for farmer details                                                                                                                                                   
-│   ├── land_details.php    # Section for land details                                                                                                                                                       
-│   └── loan_details.php    # Section for loan details                                                                                                                                                       
-├── about_us.php            # About Us Page                                                                                                                                                       
-├── contact.php             # Contact Page                                                                                                                                                           
+loan-amount-tracker/                                                                                                                                                                                         
+│                                                                                                                                                                                                             
+├── index.php                   # Home Page                                                                                                                                                                          
+├── login.php                   # Login Page                                                                                                                                                          
+├── signup.php                  # Signup Page                                                                                                                                                                 
+├── create_password.php         # Create Password Page                                                                                                                                                        
+├── farmer_info.php             # Farmer Info Page                                                                                                                                                            
+│   ├── farmer_details.php      # Section for farmer details                                                                                                                                                   
+│   ├── land_details.php        # Section for land details                                                                                                                                                       
+│   └── loan_details.php        # Section for loan details                                                                                                                                                       
+├── about_us.php                # About Us Page                                                                                                                                                       
+├── contact.php                 # Contact Page                                                                                                                                                           
 └── database
    
 
