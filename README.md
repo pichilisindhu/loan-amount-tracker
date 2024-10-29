@@ -16,9 +16,9 @@ loan-amount-tracker/
 └── database
 
 # Tech Stack
-# Frontend: HTML, CSS, JavaScript
-# Backend: PHP
-# Database: MySQL
+Frontend: HTML, CSS, JavaScript
+Backend: PHP
+Database: MySQL
 ![Screenshot 2024-10-29 081949](https://github.com/user-attachments/assets/62b5f917-d618-4a62-a19c-0cac016dfa99)
 ![Screenshot 2024-10-29 082009](https://github.com/user-attachments/assets/40844712-90d1-438f-9b11-049c80c73cd1)
 ![Screenshot 2024-10-29 082143](https://github.com/user-attachments/assets/cf591847-a40b-4c2b-aa7f-31ae252b39fa)
