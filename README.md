@@ -1,19 +1,14 @@
 # loan-amount-tracker
 A web-based application designed to help farmers track and manage their loan amounts. This application includes user-friendly forms for farmer details, land and loan information pages.
 
-loan-amount-tracker/
-│
-├── index.html                 # Home Page
-├── login.html                 # Login Page
-├── signup.html                # Signup Page
-├── create_password.html       # Create Password Page
-├── farmer_info.html           # Farmer Info Page
-│   ├── farmer_details.html    # Section for farmer details
-│   ├── land_details.html      # Section for land details
-│   └── loan_details.html      # Section for loan details
-├── about_us.html              # About Us Page
-├── contact.html               # Contact Page
-└── database
+Table of Contents
+Features
+Tech Stack
+Pages Overview
+Setup Instructions
+Usage
+Contributing
+License
 
 # Tech Stack
 Frontend: HTML, CSS, JavaScript
