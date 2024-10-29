@@ -31,10 +31,10 @@ Database: MySQL
 ![Screenshot 2024-10-29 082009](https://github.com/user-attachments/assets/40844712-90d1-438f-9b11-049c80c73cd1)
 
 # Land-details page
-![Screenshot 2024-10-29 082143](https://github.com/user-attachments/assets/cf591847-a40b-4c2b-aa7f-31ae252b39fa)
+![Screenshot 2024-10-29 084443](https://github.com/user-attachments/assets/79521b66-2dbc-46e1-8f71-d019d8c969bc)
 
 # Loan-details page
-![Screenshot 2024-10-29 082247](https://github.com/user-attachments/assets/5b77b3f9-f9e4-4771-80c0-c79a06c28e30)
+![Screenshot 2024-10-29 082143](https://github.com/user-attachments/assets/cf591847-a40b-4c2b-aa7f-31ae252b39fa)
 
 # Aboutus page
 ![Screenshot 2024-10-29 082542](https://github.com/user-attachments/assets/1401f68d-33db-4c65-a27d-14f51c14b38d)
