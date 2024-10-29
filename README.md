@@ -3,16 +3,16 @@ A web-based application designed to help farmers track and manage their loan amo
 
 loan-amount-tracker/                                                                                                                                                                                         
 │                                                                                                                                                                                                             
-├── index.php                   # Home Page                                                                                                                                                                          
-├── login.php                   # Login Page                                                                                                                                                          
-├── signup.php                  # Signup Page                                                                                                                                                                 
-├── create_password.php         # Create Password Page                                                                                                                                                        
-├── farmer_info.php             # Farmer Info Page                                                                                                                                                            
-│   ├── farmer_details.php      # Section for farmer details                                                                                                                                                   
-│   ├── land_details.php        # Section for land details                                                                                                                                                       
-│   └── loan_details.php        # Section for loan details                                                                                                                                                       
-├── about_us.php                # About Us Page                                                                                                                                                       
-├── contact.php                 # Contact Page                                                                                                                                                           
+├── index.php                                                                                                                                                                                            
+├── login.php                                                                                                                                                                           
+├── signup.php                                                                                                                                                                               
+├── create_password.php                                                                                                                                                                
+├── farmer_info.php                                                                                                                                                                      
+│   ├── farmer_details.php                                                                                                                                                    
+│   ├── land_details.php                                                                                                                                                            
+│   └── loan_details.php                                                                                                                                                           
+├── about_us.php                                                                                                                                                                     
+├── contact.php                                                                                                                                                                           
 └── database
    
 
