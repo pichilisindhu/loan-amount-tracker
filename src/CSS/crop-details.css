@@ -1,0 +1,69 @@
+/* Reset default browser styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body, html {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f0f8ff;
+}
+
+/* Form container */
+.loan-form-box {
+  background-color: #28a745;
+  max-width: 650px;
+  margin-top: 120px;
+  padding: 40px 50px;
+  border-radius: 14px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+}
+
+/* Heading */
+.loan-form-box h2 {
+  text-align: center;
+  
+  color: white;
+  font-size: 28px;
+}
+
+/* Labels */
+.loan-form-box label {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 17px;
+  color: #ffffff;
+}
+
+/* Inputs */
+.loan-form-box input[type="text"],
+.loan-form-box input[type="email"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 16px;
+}
+
+/* Submit Button */
+.loan-form-box button {
+  width: 100%;
+  padding: 12px;
+  background-color: #3b82f6;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.loan-form-box button:hover {
+  background-color: #2563eb;
+}
+.crop-btn a
+{
+      text-decoration: none;
+}

@@ -1,0 +1,80 @@
+/* Reset default spacing */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Arial, sans-serif';
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+/* Header */
+.aboutus h1{
+  margin-top: 500px;
+  background-color: #28a745;
+  color: white;
+  text-align: center;
+  padding:2px 2px;
+}
+
+.aboutus h1 {
+  font-size: 3rem;
+}
+
+/* About Section */
+.about {
+  padding: 2rem;
+  max-width: 100%;
+}
+
+.about h2 {
+  color: #2c3e50;
+  margin-bottom: 0.5rem;
+}
+
+.about p {
+  margin-bottom: 1.5rem;
+  font-size: 1.05rem;
+  text-align: justify;
+}
+
+/* Features and Why-Us Styling */
+.features, .why-us {
+  margin-top: 2.5rem;
+}
+
+.features ul,
+.why-us ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.features li,
+.why-us li {
+  background: #fff;
+  border-left: 5px solid #28a745;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  border-radius: 4px;
+}
+
+.features li h3 {
+  color: #28a745;
+  margin-bottom: 0.5rem;
+}
+
+/* Footer */
+.about-footer {
+  background-color: #222;
+  color: #ccc;
+  text-align: center;
+  padding: 1.5rem;
+  margin-top: 3rem;
+  font-size: 0.9rem;
+}
+
+
