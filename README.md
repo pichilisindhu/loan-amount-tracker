@@ -1,26 +1,43 @@
 # loan-amount-tracker
 A web-based application designed to help farmers track and manage their loan amounts. This application includes user-friendly forms for farmer details, land and loan information pages.
 
-loan-amount-tracker/                                                                                                                                                                                         
-│                                                                                                                                                                                                             
-├── index.html                                                                                                                                                                                           
-├── login.html                                                                                                                                                                           
-├── signup.html                                                                                                                                                                               
-├── create_password.html                                                                                                                                                                
-├── farmer_info.html                                                                                                                                                                      
-│   ├── farmer_details.html                                                                                                                                                    
-│   ├── land_details.html                                                                                                                                                            
-│   └── loan_details.html                                                                                                                                                           
-├── about_us.html                                                                                                                                                                     
-├── contact.html                                                                                                                                                                           
-└── database
-   
+loan-amount-tracker/                                                                                                                                                                               ├── public   
+    ├──pic6.jpg
+ ├── src
+     ├──Components
+          ├──Navbar.jsx
+     ├──CSS
+          ├──about.css
+          ├──contact.css
+          ├──crop-details.css
+          ├──farmer-registration.css
+          ├──home.css
+          ├──land-details.css
+          ├──login-form.css
+          ├──navbar.css
+          ├──signup.css
+     ├──Pages
+          ├──AboutUs.jsx
+          ├──ContactUs.jsx
+          ├──Crop-Details.jsx
+          ├──Farmer-Details.jsx
+          ├──Home.jsx
+          ├──Land-Details.jsx
+          ├──Login-Form.jsx
+          ├──SignUp.jsx
+     ├──App.jsx
+     ├──App.css
+     ├──main.jsx
+            
+        
+ 
+ ├── index.jsx
+     
+
 
 
 # Tech Stack
-Frontend: HTML, CSS, JavaScript                                                                                                                                                                           
-Backend: PHP                                                                                                                                                                                                      
-Database: MySQL                                                                                                                                                                                          
+Frontend: React, CSS                                                                                                                                                                                                                                                                     
 
 # Home page
 ![Screenshot 2024-10-29 081949](https://github.com/user-attachments/assets/62b5f917-d618-4a62-a19c-0cac016dfa99)
