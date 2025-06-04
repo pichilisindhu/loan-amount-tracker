@@ -1,10 +1,11 @@
 # loan-amount-tracker
 A web-based application designed to help farmers track and manage their loan amounts. This application includes user-friendly forms for farmer details, land and loan information pages.
 
-loan-amount-tracker/                                                                                                                                                                               ├── public   
-    ├──pic6.jpg
- ├── src
-     ├──Components
+loan-amount-tracker/                                                                                                                                                                               
+ ├── public                                                                                                                                                                                                      
+    ├──pic6.jpg          																																	                    
+ ├── src																								
+     ├──Components																								
           ├──Navbar.jsx
      ├──CSS
           ├──about.css
@@ -47,9 +48,6 @@ Frontend: React, CSS
 
 # Signup page
 ![Screenshot 2024-10-29 082333](https://github.com/user-attachments/assets/673d8702-5783-48e2-a126-65313fcf6b89)
-
-# Create-password page
-![Screenshot 2024-10-29 082347](https://github.com/user-attachments/assets/5c279f5b-31ac-413b-96f4-e9d863485b79)
 
 # Farmer-details page
 ![Screenshot 2024-10-29 082009](https://github.com/user-attachments/assets/40844712-90d1-438f-9b11-049c80c73cd1)
